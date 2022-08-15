@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ed169eebfbf64147a4a36c438fc2a8b3',
+  rootNotionPageId: 'f761f1bcccd049178f31eb971ca76ee1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'XIE LIXIN PROFOLIO',
-  domain: 'https://east-brook-c45.notion.site/XIE-LIXIN-PROFOLIO-ed169eebfbf64147a4a36c438fc2a8b3',
+  domain: 'https://east-brook-c45.notion.site/XIE-LIXIN-PROFOLIO-f761f1bcccd049178f31eb971ca76ee1',
   author: 'LIZZY XIE',
 
   // open graph metadata (optional)
